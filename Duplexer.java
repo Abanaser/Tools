@@ -1,5 +1,5 @@
 /**
- * A shortcut to create PrinterWriter, BufferedReader for a socket.
+ * A shortcut to create PrinterWriter, BufferedReader for a socket connetction.
  * file: Duplexer.java
  * Author: Abdulmalik Banaser
  */
